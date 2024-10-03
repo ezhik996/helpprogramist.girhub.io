@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    font-family: arial;
+    font-weight: bold;
+    color: white;
+}
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(26, 26, 26);
+}
+.nametext {
+    display: flex;
+    justify-content: center;
+}
+.namebutton {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
+.button {
+    background-color: rgb(27, 27, 27);
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.textbutton {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.nothing {
+    height: 20px;
+}
+.ktoiksleep {
+    width: 500px;
+    height: 300px;
+}
+.back {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
