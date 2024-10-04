@@ -29,6 +29,7 @@ body {
     display: flex;
     justify-content: center;
     text-decoration: none;
+    color: white;
 }
 .nothing {
     height: 20px;
